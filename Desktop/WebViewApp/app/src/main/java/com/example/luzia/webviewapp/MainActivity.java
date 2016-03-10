@@ -25,7 +25,7 @@ public class MainActivity extends AppCompatActivity {
         WebSettings webSettings = mwebView.getSettings();
         webSettings.setJavaScriptEnabled(true);
         //url pra carregar
-        mwebView.loadUrl("http://facebook.com.br");
+        mwebView.loadUrl("http://shakemeup.com.br");
 
         mwebView.setWebViewClient(new WebViewClient());
 
