@@ -14,5 +14,5 @@
         android:layout_height="match_parent"
         android:id="@+id/imageLoad"
         android:layout_gravity="center_horizontal|top"
-        android:src="@drawable/splash_1280_1920" />
+        android:src="@mipmap/image_splash"/>
 </FrameLayout>
